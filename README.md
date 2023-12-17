@@ -50,7 +50,7 @@ $ cd PREMIUM
 
 $ git pull
 
-$ python luciana.py
+$ python prem.py
 
 ### Screenshot:
 
